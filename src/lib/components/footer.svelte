@@ -5,7 +5,7 @@
 <footer
 	class="flex flex-row items-start justify-between bg-background px-6 pt-6 duration-300 ease-in-out lg:px-96"
 >
-	<div class="text-md flex items-center font-mono">made with love by edison zhang</div>
+	<div class="flex items-center font-mono text-sm lg:text-base">made with love by edison</div>
 	<div class="flex items-center space-x-4">
 		<a
 			href="mailto:edison.zhang.forwarding@gmail.com"
