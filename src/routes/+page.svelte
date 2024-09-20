@@ -22,7 +22,7 @@
 </script>
 
 <main class="flex flex-col items-center justify-center space-y-6 px-6 lg:px-96">
-	<div class="h-full w-full rounded-lg border-2 border-black p-3">
+	<div class="h-full w-full rounded-lg border-2 border-black p-3 dark:border-white">
 		<h1 class="font-semibold">hi, i'm edison,</h1>
 		<br />
 		<p>
@@ -32,7 +32,7 @@
 		<br />
 		<p>i hope you enjoy your stay in my little corner of the internet!</p>
 	</div>
-	<div class="h-full w-full rounded-lg border-2 border-black p-3">
+	<div class="h-full w-full rounded-lg border-2 border-black p-3 dark:border-white">
 		<div class="flex flex-col space-y-2">
 			<h1 class="font-semibold">recent writing</h1>
 			{#each data.posts as post (post.title)}
@@ -50,7 +50,7 @@
 		on:mouseenter={() => (hovered = true)}
 		on:mouseleave={() => (hovered = false)}
 	>
-		<img src={image} alt="a broken tulip" class="h-[30vh] w-full rounded-lg object-cover" />
+		<img src={image} alt="a broken tulip" class="h-[40vh] w-full rounded-lg object-cover" />
 		<div
 			class="absolute bottom-2 right-2 max-w-full rounded-lg bg-black bg-opacity-75 p-2 text-white transition-opacity duration-500 ease-in-out"
 			style="opacity: {$captionOpacity};"

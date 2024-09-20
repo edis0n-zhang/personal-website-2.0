@@ -3,7 +3,7 @@
 </script>
 
 <footer
-	class="flex flex-row items-start justify-between bg-background px-6 pt-6 duration-300 ease-in-out lg:px-96"
+	class="flex flex-row items-start justify-between px-6 pt-6 duration-300 ease-in-out lg:px-96"
 >
 	<div class="flex items-center font-mono text-sm lg:text-base">made with love by edison</div>
 	<div class="flex items-center space-x-4">
