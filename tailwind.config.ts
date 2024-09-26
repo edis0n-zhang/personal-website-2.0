@@ -57,7 +57,10 @@ const config: Config = {
       fontFamily: {
         sans: [...fontFamily.sans],
         mono: ['"IBM Plex Mono"', 'monospace'],
-      }
+      },
+      plugins: [
+        require("@tailwindcss/typography")
+      ]
     }
   },
 };
