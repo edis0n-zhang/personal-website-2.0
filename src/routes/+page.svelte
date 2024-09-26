@@ -18,6 +18,8 @@
 		}
 	}
 
+	import CaptionedImage from '$lib/components/CaptionedImage.svelte';
+
 	export let data: PageData;
 </script>
 

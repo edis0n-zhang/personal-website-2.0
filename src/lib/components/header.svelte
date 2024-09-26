@@ -43,8 +43,8 @@
 >
 	<div class="z-50 flex items-start items-baseline space-x-4 pt-3 font-mono decoration-2">
 		<TypedName />
-		<a href="/" class="text-xl decoration-yellow-300 hover:underline">home</a>
-		<a href="/writing" class="text-xl decoration-yellow-300 hover:underline">writing</a>
+		<a href="/" class="text-l decoration-yellow-300 hover:underline md:text-xl">home</a>
+		<a href="/writing" class="text-l decoration-yellow-300 hover:underline md:text-xl">writing</a>
 	</div>
 	<LightSwitch />
 </header>
