@@ -1,10 +1,10 @@
 import type { PageServerLoad } from './$types';
 import { slugFromPath } from '$lib/slugFromPath';
 
-const MAX_POSTS = 10;
+const MAX_POSTS = 3;
 
 export const load: PageServerLoad = async ({ url }) => {
-  const modules = import.meta.glob(`/src/lib/posts/*.{md,svx,svelte.md}`);
+  const modules = import.meta.glob(`/src/lib/posts/*/*.{md,svx,svelte.md}`);
 
   const postPromises = Object.entries(modules).map(([path, resolver]) =>
     resolver().then(

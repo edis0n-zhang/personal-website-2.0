@@ -23,7 +23,6 @@ const config = defineConfig({
   rehypePlugins: [
     rehypeSlug,
     [
-      rehypeAutolinkHeadings,
       {
         behavior: 'wrap'
       }

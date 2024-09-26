@@ -1,6 +1,5 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
-
 	let displayText = '';
 	const fullName = 'edison_zhnag';
 	const lastThreeCharacters = 'ang';
@@ -18,17 +17,13 @@
 			displayText += fullName[i];
 			await sleep(typingSpeed);
 		}
-
 		await sleep(pauseDuration);
-
 		// Delete last three characters
 		for (let i = 0; i < 3; i++) {
 			displayText = displayText.slice(0, -1);
 			await sleep(deletingSpeed);
 		}
-
 		await sleep(pauseDuration);
-
 		// Retype the correct ending
 		for (let i = 0; i < lastThreeCharacters.length; i++) {
 			displayText += lastThreeCharacters[i];
@@ -41,6 +36,9 @@
 	});
 </script>
 
-<h1 class="pr-2 text-xl font-semibold">
-	{displayText}
-</h1>
+<a href="/">
+	<div class="relative pr-2 font-mono text-xl font-semibold">
+		<span class="invisible">{fullName}</span>
+		<span class="absolute left-0 top-0">{displayText}</span>
+	</div>
+</a>

@@ -41,7 +41,7 @@
 	bind:this={header}
 	class="sticky top-0 flex justify-between px-6 pb-4 duration-700 ease-in-out lg:px-96"
 >
-	<div class="z-50 flex items-start items-baseline space-x-4 pt-3">
+	<div class="z-50 flex items-start items-baseline space-x-4 pt-3 font-mono decoration-2">
 		<TypedName />
 		<a href="/" class="text-xl decoration-yellow-300 hover:underline">home</a>
 		<a href="/writing" class="text-xl decoration-yellow-300 hover:underline">writing</a>

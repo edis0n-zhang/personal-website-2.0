@@ -11,13 +11,13 @@
 </script>
 
 {#if slug}
-	<h3 class="text-3xl" class:large={!slug} {id}>
+	<h3 class="text-2xl font-semibold" class:large={!slug} {id}>
 		<a {href}>
 			{title}
 		</a>
 	</h3>
 {:else}
-	<h2 class="text-3xl" class:large={!slug} {id}>
+	<h2 class="text-2xl font-semibold" class:large={!slug} {id}>
 		<a {href}>
 			{title}
 		</a>
