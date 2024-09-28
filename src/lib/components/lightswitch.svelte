@@ -1,70 +1,52 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
-	import { tick } from 'svelte';
 	import { tweened } from 'svelte/motion';
 	import { cubicOut } from 'svelte/easing';
-	import { fade } from 'svelte/transition';
-	import LightbulbLight from './lightbulb_light.svelte';
-	import LightbulbDark from './lightbulb_dark.svelte';
+	import Lightbulb from './lightbulb.svelte';
 
-	let isDarkMode: boolean = false; // Initial mode
+	let isDarkMode: boolean = false;
 
-	// Check user's preferred color scheme on component mount
 	onMount(() => {
-		if (window.matchMedia('(prefers-color-scheme: light)').matches) {
+		if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
 			isDarkMode = true;
 			updateTheme();
 		}
 	});
 
-	// Update the theme by adding/removing the 'dark' class on the root element
 	function updateTheme() {
-		const root = document.documentElement;
-		if (isDarkMode) {
-			root.classList.add('dark');
-		} else {
-			root.classList.remove('dark');
-		}
+		document.documentElement.classList.toggle('dark', isDarkMode);
 	}
 
-	// Tweened value for chain position
 	let chainY = tweened(0, {
 		duration: 150,
 		easing: cubicOut
 	});
 
-	// Toggle dark mode and animate chain
 	async function toggleDarkMode() {
 		isDarkMode = !isDarkMode;
 		updateTheme();
 		await animateChain();
 	}
 
-	// Animate the chain moving down and up
 	async function animateChain() {
-		await chainY.set(20); // Move chain down
-		await chainY.set(0); // Move chain back up
+		await chainY.set(10);
+		await chainY.set(0);
 	}
 </script>
 
-<div class="flex items-start">
+<div class="relative flex cursor-pointer items-center" on:click={toggleDarkMode}>
 	<div class="pr-2">
-		<LightbulbLight />
+		<Lightbulb />
 	</div>
-	<div
-		class="chain right-6 bg-black dark:bg-white md:right-96"
-		on:click={toggleDarkMode}
-		style="transform: translateY({$chainY}px);"
-	></div>
+	<div class="chain bg-black dark:bg-white" style="transform: translateY({$chainY}px);"></div>
 </div>
 
-<style global>
-	/* Style for the chain */
+<style>
 	.chain {
 		width: 2px;
-		height: 70px;
-		cursor: pointer;
-		position: fixed;
-		top: -30px;
+		height: 60px;
+		position: absolute;
+		top: -20px;
+		right: 0;
 	}
 </style>

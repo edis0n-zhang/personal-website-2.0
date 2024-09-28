@@ -2,7 +2,7 @@
 	import type { PageData } from './$types';
 
 	import { spring } from 'svelte/motion';
-	import image from '$lib/images/broken_tulip_cropped.webp';
+	import broken_tulip from '$lib/images/broken_tulip_cropped.webp';
 
 	let hovered = false;
 	const captionOpacity = spring(0, {
@@ -47,17 +47,9 @@
 			{/each}
 		</div>
 	</div>
-	<div
-		class="relative w-full"
-		on:mouseenter={() => (hovered = true)}
-		on:mouseleave={() => (hovered = false)}
-	>
-		<img src={image} alt="a broken tulip" class="h-[40vh] w-full rounded-lg object-cover" />
-		<div
-			class="absolute bottom-2 right-2 max-w-full rounded-lg bg-black bg-opacity-75 p-2 text-white transition-opacity duration-500 ease-in-out"
-			style="opacity: {$captionOpacity};"
-		>
-			a broken tulip; my favorite flower
-		</div>
-	</div>
+
+	<CaptionedImage
+		image={broken_tulip}
+		caption="Broken tulip by Henriette Antoinette Vincent, 1820; my favorite flower"
+	/>
 </main>

@@ -4,6 +4,11 @@ date: 2023-09-18
 published: false
 ---
 
+<script>
+    import CaptionedImage from '$lib/components/CaptionedImage.svelte';
+    import MarkddownHeadingExample from '$lib/images/broken_tulip.webp';
+</script>
+
 # Preface
 
 If you're here I likely convinced you to use Obsidian or you asked me "what's that app you're always on?" and I sent you here. Hopefully this guide will help you get started, you won't regret picking it up!
@@ -35,6 +40,8 @@ In short, you can use Obsidian as a simple text editor and Markdown provides htm
 
 - Use `# headingname` for a heading. The number of #'s is the level of heading.
   - i.e `# headingname` is h1 whereas `## headingname` is h2.
+
+<CaptionedImage image={MarkddownHeadingExample} caption="Markdown Heading Example"/>
 
 ![[MarkdownHeadingExample.png| 100]]
 
@@ -111,81 +118,6 @@ Currently I use the Minimal with Dark Mode Nord. You can set this in the Minimal
 
 These are my style settings for sanctum, prism, and minimal. If you want to use these settings copy the settings, navigate to your style settings plugin in your settings, open the import menu, and paste in the my settings.
 
-> [!info]- My Style Settings
->
-> ```text
-> {
->  "sanctum@@color-accent-rgb-d": "83, 112, 159",
->  "sanctum@@color-accent-rgb-l": "99, 149, 156",
->  "sanctum@@dark-mode-contrast-mode": "sanctum-default-dark",
->  "sanctum@@table-cell-border": true,
->  "sanctum@@table-row-border": true,
->  "sanctum@@table-column-border": true,
->  "sanctum@@table-alternate-row": false,
->  "sanctum@@table-alternate-column": false,
->  "sanctum@@table-single-rows": false,
->  "sanctum@@table-nums": false,
->  "sanctum@@table-tabular-figures": false,
->  "sanctum@@table-sticky-height": 600,
->  "sanctum@@table-sticky-headers": false,
->  "sanctum@@code-border": false,
->  "sanctum@@code-lines": false,
->  "sanctum@@syntax-highlighting": "nord",
->  "sanctum@@active-line-accent": "transparent",
->  "sanctum@@stendig": false,
->  "sanctum@@calendar-dot@@dark": "#70B1FF",
->  "sanctum@@calendar-dot-hover@@light": "#23505E",
->  "sanctum@@calendar-dot-hover@@dark": "#4D718A",
->  "sanctum@@link-color@@dark": "#5A6F9B",
->  "sanctum@@clean-embeds": false,
->  "obsidian-prism-theme@@highlight-text-accent-custom-dt": "#FFFFFF",
->  "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-custom-dt",
->  "obsidian-prism-theme@@highlight-text-accent-dt": "pt-highlight-text-custom-dt",
->  "obsidian-prism-theme@@color-accent-base-dt": "#535A4E",
->  "obsidian-prism-theme@@color-accent-tint-dt": "#B3BDB3",
->  "obsidian-prism-theme@@color-accent-text-dt": "#A7B1A5",
->  "obsidian-prism-theme@@pt-disable-callout-styling": false,
->  "sanctum@@font-editor-theme": "\"\"",
->  "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-raven-dt",
->  "sanctum@@hide-vault-title": false,
->  "obsidian-prism-theme@@pt-file-explorer-folder-icon": false,
->  "obsidian-prism-theme@@left-sidebar-tab-label-alignment": "pt-tab-label-left-sidebar-left",
->  "obsidian-prism-theme@@pt-custom-vault-banner": false,
->  "obsidian-prism-theme@@custom-vault-banner-horizontal-align": "pt-custom-vault-banner-justify-content-center",
->  "obsidian-prism-theme@@file-explorer-left-margin": 0,
->  "obsidian-prism-theme@@pt-pdf-dark-theme": false,
->  "minimal-style@@inline-title-size": "2em",
->  "minimal-style@@h1-size": "2.25em",
->  "minimal-style@@h2-size": "2em",
->  "minimal-style@@h3-size": "1.75em",
->  "minimal-style@@h4-size": "1.5em",
->  "minimal-style@@h5-size": "1.25em",
->  "minimal-style@@h6-size": "1em",
->  "minimal-style@@h5-variant": "normal",
->  "minimal-style@@h6-variant": "normal",
->  "minimal-style@@h4-variant": "normal",
->  "minimal-style@@h4-weight": 600,
->  "minimal-style@@h5-weight": 600,
->  "minimal-style@@h6-weight": 600,
->  "minimal-style@@h3-weight": 600,
->  "minimal-advanced@@styled-scrollbars": true,
->  "minimal-advanced@@cursor": "pointer",
->  "minimal-style@@bg1@@dark": "#232731",
->  "minimal-style@@bg2@@dark": "#323846",
->  "minimal-style@@ax1@@dark": "#8CBCBB",
->  "minimal-style@@heading-spacing": "0em",
->  "minimal-style@@h2-l": true,
->  "minimal-style@@h1-l": true,
->  "minimal-style@@h3-l": true,
->  "minimal-style@@h4-l": true,
->  "minimal-style@@h5-l": true,
->  "minimal-style@@h6-l": true,
->  "minimal-style@@metadata-add-property-off": true,
->  "minimal-style@@metadata-heading-off": true,
->  "minimal-style@@metadata-dividers": false
-> }
-> ```
-
 # Plugins
 
 Plugins are community made extensions that can add additional functionality not included in base Obsidian.
@@ -200,4 +132,3 @@ Install and manage plugins using the community plugins section in your Obsidian 
 [Execute Code](https://stackoverflow.com/questions/59815504/how-to-run-a-github-repository): Adds the ability to run code inside markdown code blocks, useful for notes. **note:** to add a C++ execute code block use 'run-cpp'... this one cost me a couple of hours \
 [Markdown Table Editor](https://github.com/ganesshkumar/obsidian-table-editor): Adds GUI to create and edit markdown tables. \
 [Style Settings](https://github.com/mgmeyers/obsidian-style-settings): Adds the ability to easily modify your theme.
-
