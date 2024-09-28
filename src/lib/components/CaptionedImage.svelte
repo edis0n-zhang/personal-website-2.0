@@ -27,7 +27,7 @@
 >
 	<img src={image} {alt} class="w-full rounded-lg object-scale-down" />
 	<div
-		class="absolute bottom-2 right-2 max-w-full rounded-lg bg-black bg-opacity-75 p-2 text-white transition-opacity duration-500 ease-in-out"
+		class="absolute bottom-0 right-0 m-2 max-w-full rounded-lg bg-black bg-opacity-75 p-2 text-white transition-opacity duration-500 ease-in-out"
 		style="opacity: {$captionOpacity};"
 	>
 		{caption}
