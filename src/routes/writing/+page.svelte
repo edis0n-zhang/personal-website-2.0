@@ -7,7 +7,7 @@
 </script>
 
 <main class="flex flex-col items-center justify-center space-y-6 px-6 lg:px-96">
-	<div class="h-full max-h-screen w-full space-y-6 rounded-lg border-2 border-black p-3">
+	<div class="h-full max-h-screen w-full space-y-6 rounded-lg border-2 p-3">
 		<div class="flex flex-col space-y-2">
 			{#each data.posts as post (post.title)}
 				<a href="/writing/{post.slug}">

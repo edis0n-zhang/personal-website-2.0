@@ -10,7 +10,7 @@
 </script>
 
 <div class="flex flex-col items-start justify-center px-6 lg:px-96">
-	<div class="w-full rounded-lg border-2 border-black p-3 dark:border-white">
+	<div class="w-full rounded-lg border-2 p-3">
 		<div class="flex flex-col items-start space-y-4">
 			<div class="flex flex-col items-start space-y-2">
 				<PageHead title={data.frontmatter.title} description={data.frontmatter.description} />

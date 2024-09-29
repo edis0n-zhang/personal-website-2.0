@@ -24,7 +24,7 @@
 </script>
 
 <main class="flex flex-col items-center justify-center space-y-6 px-6 lg:px-96">
-	<div class="h-full w-full rounded-lg border-2 border-black p-3 dark:border-white">
+	<div class="h-full w-full rounded-lg border-2 p-3">
 		<h1 class="font-semibold">hi, i'm edison,</h1>
 		<br />
 		<p>
@@ -34,7 +34,7 @@
 		<br />
 		<p>i hope you enjoy your stay in my little corner of the internet!</p>
 	</div>
-	<div class="h-full w-full rounded-lg border-2 border-black p-3 dark:border-white">
+	<div class="h-full w-full rounded-lg border-2 p-3">
 		<div class="flex flex-col space-y-2">
 			<h1 class="font-semibold">recent writing</h1>
 			{#each data.posts as post (post.title)}
