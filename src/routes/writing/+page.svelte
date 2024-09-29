@@ -6,6 +6,12 @@
 	console.log(data);
 </script>
 
+<svelte:head>
+	<title>edison zhang</title>
+	<meta name="description" content="edison's little corner of the internet" />
+	<meta property="og:title" content="edison zhang" />
+</svelte:head>
+
 <main class="flex flex-col items-center justify-center space-y-6 px-6 lg:px-96">
 	<div class="h-full max-h-screen w-full space-y-6 rounded-lg border-2 p-3">
 		<div class="flex flex-col space-y-2">
