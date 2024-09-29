@@ -23,6 +23,12 @@
 	export let data: PageData;
 </script>
 
+<svelte:head>
+	<title>edison zhang</title>
+	<meta name="description" content="edison's little corner of the internet" />
+	<meta property="og:title" content="edison zhang" />
+</svelte:head>
+
 <main class="flex flex-col items-center justify-center space-y-6 px-6 lg:px-96">
 	<div class="h-full w-full rounded-lg border-2 p-3">
 		<h1 class="font-semibold">hi, i'm edison,</h1>
