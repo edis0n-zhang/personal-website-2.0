@@ -9,7 +9,7 @@ published: true
   import ArtsAndCraftsVennDiagram from "./ArtsAndCraftsVennDiagram.svg";
 </script>
 
-I am far from being the de facto authority on programming - if anything, I'd describe myself as an eternal beginner. Building software is a skill that is infinitely broad and difficult; I start over as a beginner almost every day. This field is vast, there is a never-ending deluge of new technologies, topics, and paradigms to master.
+I am far from being the de facto authority on programming - if anything, I'd describe myself as an eternal beginner. Building software is a skill that is infinitely broad and difficult; I start over as a novice almost every day. This field is vast, there is a never-ending deluge of new technologies, topics, and paradigms to master.
 
 Yet still, people often ask me "What should I do to get good at programming?" This essay is my attempt to answer that question. My belief is simple: By keeping certain principles as your north star, eventually, you will reach the destination you desire.
 ## carpentry and code
@@ -37,7 +37,7 @@ It is important to note that software is a craft and not an art. A craft implies
 
 As you might've noticed, under this definition, arts are a subset of crafts. some crafts are art, but crafts are not exclusively art.
 
-A carpenter can make both arts and crafts; both intricate wood carvings and support beams for a home. Programmers can create anything from virtual donuts and important government infrastructure.
+A carpenter can make both arts and crafts; both intricate wood carvings and support beams for a home. Programmers can create anything from virtual donuts to government infrastructure.
 
 This distinction is important, it's something that guides your approach to your work. While an artist focuses on how to  conjure a feeling most accurately, a craftsman will often need to be more pragmatic in their considerations. 
 
