@@ -34,11 +34,11 @@
 		<h1 class="font-semibold">hi, i'm edison,</h1>
 		<br />
 		<p>
-			i'm a software engineer and student at ucsb. i love building things, competitive games, and
+			I'm a software engineer and student at UCSB. I love building things, competitive games, and
 			reading blogs (suggestions very welcome).
 		</p>
 		<br />
-		<p>i hope you enjoy your stay in my little corner of the internet!</p>
+		<p>I hope you enjoy your stay in my little corner of the internet!</p>
 	</div>
 	<div class="h-full w-full rounded-lg border-2 p-3">
 		<div class="flex flex-col space-y-2">
@@ -56,6 +56,6 @@
 
 	<CaptionedImage
 		image={broken_tulip}
-		caption="Broken tulip by Henriette Antoinette Vincent, 1820; my favorite flower"
+		caption="Broken tulip by Henriette Antoinette Vincent, 1820; my favorite flower."
 	/>
 </main>

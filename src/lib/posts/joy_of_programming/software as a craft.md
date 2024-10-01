@@ -11,7 +11,7 @@ published: true
 
 People often ask me "What should I do to get good at programming?" I am nowhere near the de facto authority on programming - if anything, I'd describe myself as an eternal beginner. This essay is my answer to those asking.
 
-Building software is a skill that is infinitely broad and difficult; I start over as a beginner almost every day. Learning to be a better programmer / engineer / developer is an endless path of learning, the topics to be learned is never ending.  (I use these programmer / engineer / builder almost synonymously and find the constant bickering over the specific term a bit silly)
+Building software is a skill that is infinitely broad and difficult; I start over as a beginner almost every day. Learning to be a better programmer / engineer / developer is an endless path of learning, the topics to be learned is never ending.  (I use these programmer / engineer / developer almost synonymously and find the constant bickering over the specific term a bit silly)
 
 However, by keeping certain principles as your north star, eventually you will reach the destination you desire.
 
@@ -25,7 +25,7 @@ I believe that **software is a craft.**
 
 What do I mean by the statement software is a craft? Let's compare it to a traditional craft like carpentry. While building a program isn't a physical craft like carpentry, it is easy to draw parallels between them.
 
-In carpentry there are many steps. greatly simplified, when a carpenter is making something it will include the following steps: planning, designing, selecting materials, preparing, shaping, assembling, and finishing.
+In carpentry there are many steps. Greatly simplified, when a carpenter is making something it will include the following steps: planning, designing, selecting materials, preparing, shaping, assembling, and finishing.
 
 For anyone familiar with building software, these steps sound familiar. Although you are molding zeros and ones instead of wood and writing lines of code instead of cutting up chunks of wood; both carpentry and software engineering start from scratch and end with a product with a purpose. 
 
@@ -97,4 +97,6 @@ My short answer is "code more and you'll get better" but I believe that my long 
 
 <br/>
 
-**Writer's Note:** I'd like to thank and credit Giles as much of the inspiration behind this post. Much of this post is inspired by his comparison between good software and "making the right cut on a block of wood." The idea has been stuck in my head bouncing around ever since. I hope that my writing is half as insightful and interesting as the advice he gave me.
+**Writer's Note:** I'd like to thank and credit Giles as much of the inspiration behind this post. Much of this post is inspired by his comparison between good software and "making the right cut on a block of wood." The idea has been stuck in my head bouncing around ever since. 
+
+I hope that my writing is half as insightful and interesting as the advice he gave me.
