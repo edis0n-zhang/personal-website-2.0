@@ -11,9 +11,7 @@ published: true
 
 I am far from being the de facto authority on programming - if anything, I'd describe myself as an eternal beginner. Building software is a skill that is infinitely broad and difficult; I start over as a beginner almost every day. This field is vast, there is a never-ending deluge of new technologies, topics, and paradigms to master.
 
-Yet still, people often ask me "What should I do to get good at programming?" This essay is my attempt to answer that question.
-
-My belief is simple: By keeping certain principles as your north star, eventually, you will reach the destination you desire.
+Yet still, people often ask me "What should I do to get good at programming?" This essay is my attempt to answer that question. My belief is simple: By keeping certain principles as your north star, eventually, you will reach the destination you desire.
 ## carpentry and code
 
 I believe that **software is a craft.**
@@ -53,11 +51,12 @@ This distinction is important, it's something that guides your approach to your 
 
 Just like any other craft, mastering programming requires time, practice, and dedication. When you watch someone deeply proficient at a skill it will seem trivial, but what you don't see are the countless hours spent honing that skill.
 
-It might seem obvious, but becoming great at something takes an **enormous amount of time**. Such a long time that it is difficult to fathom. However, the inverse is also true. All skills can be bought, the currency is just time, not money. Programming is no different. 
+It sounds obvious, but becoming great at something takes an **enormous amount of time**. Such a long time that it is difficult to fathom. However, the inverse is also true. All skills can be bought, the currency is just time, not money. Programming is no different. 
 
 While I can't promise you will be great within a year, two, or even five; I am certain that if you dedicated your life to any skill for ten years, you will be at the 99th percentile by the end. It is only human to overestimate how much you can improve in one year, but severely underestimate how much you can improve in ten.
 
 Internalize this and make small strides every day.
+
 ## joy in the process
 
 Although you should put time in, it doesn't mean torturing yourself. If each and every line of code feels like stepping on a nail; forget about improving, you won't ever even sit down in front of a keyboard.
@@ -80,7 +79,7 @@ I could bore you with more testimonials, but instead I'll leave you with this. I
 
 ## build with a purpose
 
-In reality, you won't be instilled with a sense of awe for every line of code you write. While you should make the process as enjoyable as you can, there will be a significant portion of the process that is more mundane. Writing tests, reviewing code, and fixing a cryptic bug are not activities I'd describe as glamorous or fun.
+In reality, the hill is more bumpy than smooth, and you won't be instilled with a sense of awe for every line of code you write. While you should make the process as enjoyable as you can, there will be a significant portion of the process that is more mundane. Writing tests, reviewing code, and fixing a cryptic bug are not activities I'd describe as glamorous or fun.
 
 In times like these, it's important to keep the bigger picture in mind. Be a pragmatist, and fulfill your responsibility to the user. Take pride in your work and ensure each and every aspect of the software is as it should be. 
 
