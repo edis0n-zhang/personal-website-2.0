@@ -56,4 +56,8 @@
 		top: -20px;
 		right: 0;
 	}
+
+	:global(body) {
+		@apply transition-colors duration-300 ease-in-out;
+	}
 </style>
