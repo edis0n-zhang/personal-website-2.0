@@ -7,7 +7,7 @@ A longer intro to my personal website refresh for 2024-2025.
 
 ## tech
 
- This site is built using Svelte (my frontend framework of choice), Tailwind CSS, and Mdsvex.
+ This site is built using Svelte, Tailwind CSS, and Mdsvex.
 
 Blog posts are .md files with a tiny bit of Svelte sprinkled in, stored in `posts/[article_title]/` with its accompanying images and assets (this file is actually funnily titled README.md.md).
 
@@ -27,7 +27,7 @@ I had lots of fun posting on it and it's a great tool if you want to host docs o
 
 I built this site to serve as a digital representation of me. Fun little quirks like a lightbulb you can actually pull (haha Thomas Edison pun!), nice rounded designs, a steph ango inspired color scheme, and a typo in the typewriter of the logo, the little design decisions that are a better reflection of me today.
 
-I made a lot of design decisions out of more personal than practical reasons. No UI library, not even my beloved shadcn, minimal guides, and no templates are all made more because "I kinda want to try that" rather than "I think this is the best way to build it."
+I made a lot of design decisions out of more personal than practical reasons. No UI library, not even my beloved shadcn, no guides, and no templates are all made more because "I kinda want to try that" rather than "I think this is the best way to build it."
 
 I'm sure there's a better way to animate a lightbulb; but my janky CSS implementation is one I like more.
 
