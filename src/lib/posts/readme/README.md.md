@@ -13,7 +13,7 @@ Blog posts are .md files with a tiny bit of Svelte sprinkled in, stored in `post
 
 I edit my posts in Obsidian by creating a [symbolic link](https://www.howtogeek.com/297721/how-to-create-and-use-symbolic-links-aka-symlinks-on-a-mac/) from my cloned repo to my Obsidian vault.
 
-Feel free to use and modify my website as you wish. All of its source code can be found on [github](https://edis0n-zhang.github.io/personal-website-2.0/).
+Feel free to use and modify my website as you wish. All of its source code can be found on [github](https://github.com/edis0n-zhang/personal-website-2.0).
 
 Glad we got the boring stuff out of the way, now for me to ramble on why I built this the way its built.
 
