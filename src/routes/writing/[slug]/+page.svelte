@@ -17,7 +17,7 @@
 				<ArticleTitle title={data.frontmatter.title} />
 				<ArticleMeta author={data.frontmatter.author} date={data.frontmatter.date} />
 			</div>
-			<div class="markdown-content">
+			<div class="markdown-content max-w-full">
 				<svelte:component this={component} />
 			</div>
 		</div>
@@ -59,10 +59,10 @@
 	}
 
 	.markdown-content :global(code) {
-		@apply rounded bg-gray-100 px-1 py-0.5 dark:bg-gray-800;
+		@apply rounded px-1 py-0.5;
 	}
 
 	.markdown-content :global(pre) {
-		@apply overflow-x-auto rounded bg-gray-100 p-4 dark:bg-gray-800;
+		@apply rounded p-4;
 	}
 </style>

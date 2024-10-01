@@ -2,8 +2,9 @@
 	import { spring } from 'svelte/motion';
 
 	export let image: string;
-	export let caption: string = 'Default caption'; // New exported prop with a default value
-	export let alt: string = 'Image'; // Added alt text prop for accessibility
+	export let caption: string = '';
+	export let alt: string = 'Image';
+	export let long_image: boolean = false; // New parameter with default value false
 
 	let hovered = false;
 	const captionOpacity = spring(0, {
@@ -21,13 +22,17 @@
 </script>
 
 <div
-	class="relative"
+	class="relative flex justify-center"
 	on:mouseenter={() => (hovered = true)}
 	on:mouseleave={() => (hovered = false)}
 >
-	<img src={image} {alt} class="w-full rounded-lg object-scale-down" />
+	<img
+		src={image}
+		{alt}
+		class={`rounded-lg object-contain ${long_image ? 'w-2/3' : 'w-full'} mx-auto`}
+	/>
 	<div
-		class="absolute bottom-0 right-0 m-2 max-w-full rounded-lg bg-black bg-opacity-75 p-2 text-white transition-opacity duration-500 ease-in-out"
+		class="absolute bottom-0 m-2 hyphens-auto whitespace-normal break-words rounded-lg bg-black bg-opacity-75 p-2 text-white transition-opacity duration-500 ease-in-out"
 		style="opacity: {$captionOpacity};"
 	>
 		{caption}
