@@ -25,9 +25,9 @@ At the time I was far less familiar with building and deploying stuff on the web
 
 I had lots of fun posting on it and it's a great tool if you want to host docs or markdown online -- but what I wanted was a bit more personal and I felt that my Quartz no longer reflected who I was.
 
-I built this site to serve as a digital representation of me. Fun little quirks like a lightbulb you can actually pull (haha Thomas Edison pun!) and a typo in the typewriter of the logo, the little design decisions that are a better reflection of me today.
+I built this site to serve as a digital representation of me. Fun little quirks like a lightbulb you can actually pull (haha Thomas Edison pun!), nice rounded designs, a steph ango inspired color scheme, and a typo in the typewriter of the logo, the little design decisions that are a better reflection of me today.
 
-I made a lot of design decisions out of more personal than practical reasons. No UI library, not even my beloved shadcn, minimal guides, mostly just looking at docs and other people's implementations, and no templates are all made more because "I kinda want to try that" rather than "I think this is the best way to build it."
+I made a lot of design decisions out of more personal than practical reasons. No UI library, not even my beloved shadcn, minimal guides, and no templates are all made more because "I kinda want to try that" rather than "I think this is the best way to build it."
 
 I'm sure there's a better way to animate a lightbulb; but my janky CSS implementation is one I like more.
 
@@ -35,4 +35,4 @@ Another thing I wrestle with about my personal sites is, *just how much do I sha
 
 My solution was no mailing list, no rss feed, no analytics -- just a webpage. You'll never find me on here talking about anything except what I want to talk about and when. One day you might get a summary of an ML paper I found interesting, on another you might find a detailed breakdown on a niche team structure in the Pokemon Showdown OU ladder I find intriguing.
 
-I hope that these decisions will help my site be a better reflection of who I am today (and make me write more...), I hope I see you around!
+I loved building this website and I hope that these decisions will help my site be a better reflection of who I am today (and make me write more...), I hope I see you around!
