@@ -9,12 +9,11 @@ published: true
   import ArtsAndCraftsVennDiagram from "./ArtsAndCraftsVennDiagram.svg";
 </script>
 
-People often ask me "What should I do to get good at programming?" I am far from being the de facto authority on programming - if anything, I'd describe myself as an eternal beginner. This essay is my answer to those asking.
+I am far from being the de facto authority on programming - if anything, I'd describe myself as an eternal beginner. Building software is a skill that is infinitely broad and difficult; I start over as a beginner almost every day. This field is vast, there is a never-ending deluge of new technologies, topics, and paradigms to master.
 
-Building software is a skill that is infinitely broad and difficult; I start over as a beginner almost every day. Learning to be a better programmer / engineer / developer is an endless path of learning, the topics to be learned are never-ending.  (I use these programmer / engineer / developer almost synonymously and find the constant bickering over the specific term a bit silly)
+Yet still, people often ask me "What should I do to get good at programming?" This essay is my attempt to answer that question.
 
-However, by keeping certain principles as your north star, eventually, you will reach the destination you desire.
-
+My belief is simple: By keeping certain principles as your north star, eventually, you will reach the destination you desire.
 ## carpentry and code
 
 I believe that **software is a craft.**
