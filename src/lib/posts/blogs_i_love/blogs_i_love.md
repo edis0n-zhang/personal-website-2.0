@@ -5,7 +5,7 @@ title: blogs i love
 ---
 **Why blogs?** In a world where everyone's online presence feels flat and the same on social media, blogs are a place where people really express themselves. Away from all the noise, in a quiet little corner, people take turns on their little soap boxes sharing their innermost (shareable) thoughts. There's no incentive to chase views, no monetary benefit, and no platform to advertise — blogs are a direct channel into someone else's life and their lived experience.
 
-## Some of my Favorites
+## personal favorites
 
 Enough blabbering, here's some of my favorite blogs! Linked will be my favorite post I've read from them. **Last Updated:** 10/15/24
 
