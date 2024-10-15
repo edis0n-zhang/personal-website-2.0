@@ -7,9 +7,7 @@ title: blogs i love
 
 ## Some of my Favorites
 
-Enough blabbering, here's some of my favorite blogs! Linked will be my favorite post I've read from them.
-
-**Last updated:** 10/15/24
+Enough blabbering, here's some of my favorite blogs! Linked will be my favorite post I've read from them. **Last Updated:** 10/15/24
 
 **[Tanay Biradar](https://tanaybiradar.com/blog/personal-growth-and-sgd/)**: Tanay is a microceleb at UCSB, my good friend, and a great blogger! He writes about his ML papers, research, and musings on life. Lots posts we write are just from chats we have!
 
