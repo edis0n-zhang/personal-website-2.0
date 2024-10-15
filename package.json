@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "vite dev",
     "build": "vite build",
-    "postbuild": "npx svelte-sitemap --domain https://edisonzhang.dev",
+    "postbuild": "npx svelte-sitemap --out-dir .vercel/output/static --domain https://www.edisonzhang.dev",
     "preview": "vite preview",
     "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
     "check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
@@ -40,6 +40,7 @@
   },
   "type": "module",
   "dependencies": {
+    "@sveltejs/adapter-vercel": "^5.4.5",
     "bits-ui": "^0.21.13",
     "clsx": "^2.1.1",
     "gray-matter": "^4.0.3",
