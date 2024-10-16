@@ -29,7 +29,7 @@
 	<meta property="og:title" content="edison zhang" />
 </svelte:head>
 
-<main class="flex flex-col items-center justify-center space-y-6 px-6 lg:px-96">
+<main class="flex flex-col items-center justify-center space-y-6 px-3 lg:px-96">
 	<div class="h-full w-full rounded-lg border-2 p-3">
 		<h1 class="font-semibold">hi, i'm edison,</h1>
 		<br />
@@ -47,7 +47,9 @@
 				<a href="/writing/{post.slug}">
 					<div class="flex justify-between">
 						<span class="font-medium">{post.title}</span>
-						<span class="font-mono text-gray-500">{new Date(post.date).toLocaleDateString()}</span>
+						<span class="font-mono text-gray-500 dark:text-gray-400"
+							>{new Date(post.date).toLocaleDateString()}</span
+						>
 					</div>
 				</a>
 			{/each}

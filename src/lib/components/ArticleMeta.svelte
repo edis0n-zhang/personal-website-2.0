@@ -11,4 +11,5 @@
 	const formattedDate = getFormattedDate(new Date(date));
 </script>
 
-<span class="font-mono text-gray-500">{new Date(date).toLocaleDateString()}</span>
+<span class="font-mono text-gray-500 dark:text-gray-400">{new Date(date).toLocaleDateString()}</span
+>

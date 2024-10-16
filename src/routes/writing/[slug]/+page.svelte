@@ -9,7 +9,7 @@
 	$: component = data.component as unknown as C;
 </script>
 
-<div class="flex flex-col items-start justify-center px-6 lg:px-96">
+<div class="flex flex-col items-start justify-center px-3 lg:px-96">
 	<div class="w-full rounded-lg border-2 p-3">
 		<div class="flex flex-col items-start space-y-4">
 			<div class="flex flex-col items-start space-y-2">
@@ -17,7 +17,7 @@
 				<ArticleTitle title={data.frontmatter.title} />
 				<ArticleMeta author={data.frontmatter.author} date={data.frontmatter.date} />
 			</div>
-			<div class="markdown-content max-w-full">
+			<div class="markdown-content min-w-full max-w-full">
 				<svelte:component this={component} />
 			</div>
 		</div>
@@ -59,10 +59,10 @@
 	}
 
 	.markdown-content :global(code) {
-		@apply rounded px-1 py-0.5;
+		@apply rounded px-1 py-0.5 text-xs lg:text-base;
 	}
 
 	.markdown-content :global(pre) {
-		@apply rounded p-4;
+		@apply max-h-96 overflow-x-auto overflow-y-scroll rounded p-4;
 	}
 </style>
