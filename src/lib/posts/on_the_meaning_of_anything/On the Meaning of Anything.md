@@ -1,7 +1,8 @@
 ---
-title: 'on the meaning of anything'
-date: '2023-12-07'
+title: on the meaning of anything
+date: 2023-12-07
 published: true
+description: In a world where everyone is yelling, what is worth listening to?
 ---
 
 Lately, I haven't been able to stop posing myself the question: **What grants something meaning?**

@@ -2,6 +2,7 @@
 date: 2024-10-01
 published: true
 title: README.md
+description: About blurb about my personal website and why it's made the way it is. (Svelte + Tailwind + Markdown / mdsvex blog)
 ---
 A longer intro to my personal website refresh for 2024-2025.
 

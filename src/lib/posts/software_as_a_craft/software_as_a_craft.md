@@ -2,6 +2,7 @@
 title: software as a craft
 date: 2024-09-28
 published: true
+description: What I think is the best way to improve at writing software and my personal philosophy of software as a craft.
 ---
 <script lang="ts">
   import CaptionedImage from '$lib/components/CaptionedImage.svelte';

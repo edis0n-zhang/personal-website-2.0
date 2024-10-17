@@ -2,6 +2,7 @@
 date: 2024-10-17
 published: true
 title: how to remove the zen browser border
+description: a quick guide on how to remove the zen browser border / padding
 ---
 I'll be quick.
 
