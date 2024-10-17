@@ -6,9 +6,12 @@ title: how to remove the zen browser border
 I'll be quick.
 
 Here's how:
+
+```
 1. Navigate to `about:config` in the Zen Browser
 2. Set `zen.theme.border-radius` to `0`
 3. Set `zen.theme.content-element-separation` to `0`
+```
 
 Done!
 
