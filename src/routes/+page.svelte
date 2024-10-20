@@ -46,7 +46,7 @@
 			{#each data.posts as post (post.title)}
 				<a href="/writing/{post.slug}">
 					<div class="flex justify-between">
-						<span class="font-medium">{post.title}</span>
+						<span class="truncate pr-4 font-medium">{post.title}</span>
 						<span class="font-mono text-gray-500 dark:text-gray-400"
 							>{new Date(post.date).toLocaleDateString()}</span
 						>
