@@ -8,7 +8,9 @@ description: My favorite blogs.
 
 ## personal favorites
 
-Enough blabbering, here's some of my favorite blogs! Linked will be my favorite post I've read from them. **Last Updated:** 10/15/24
+**Last Updated:** 10/29/24
+
+Enough blabbering, here's some of my favorite blogs! Linked will be my favorite post I've read from them.
 
 **[Tanay Biradar](https://tanaybiradar.com/blog/personal-growth-and-sgd/)**: Tanay is a microceleb at UCSB, my good friend, and a great blogger! He writes about his ML papers, research, and musings on life. Lots posts we write are just from chats we have!
 
@@ -19,3 +21,5 @@ Enough blabbering, here's some of my favorite blogs! Linked will be my favorite 
 **[Maggie Appleton](https://maggieappleton.com/ai-dark-forest)**: Maggie writes in depth and thought provoking pieces but in a playful manner. Filled with illustrations and personal quirks, her site is always an awesome visit. I hope I can write in a way that is half as enjoyable to read.
 
 **[Jacky Zhao](https://jzhao.xyz/posts/the-fools-who-dream)**: Jacky writes about the self, AI, and the online you. Reading his writing was a great inspiration to myself, and my original blog was built off of his project [Quartz](https://github.com/jackyzha0/quartz)!
+
+**[Thorsten Ball](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/)**: Thorsten muses on software and his love for it. I aspire to one day have the deep and broad technical experience he has acquired over his career. While the article I have linked is about his experience as an engineer over the last 10 years, his [piece about the romantic quality of writing software](https://thorstenball.com/blog/2020/09/08/how-can-you-not-be-romantic-about-programming/) is something that resonated deeply with me.
