@@ -51,7 +51,7 @@
 	}
 
 	.markdown-content :global(li) {
-		@apply mb-2;
+		@apply mb-2 list-disc;
 	}
 
 	.markdown-content :global(blockquote) {
