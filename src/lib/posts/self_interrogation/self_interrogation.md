@@ -62,7 +62,7 @@ I always harp on this story, but I was inspired to go into software engineering 
 
   Recently I watched an interview of [Mitchell Hashimoto](https://www.youtube.com/watch?v=YQnz7L6x068&t=3151s) (of Hashicorp and Ghostty fame) where he discusses his love of work and code; describing his open source work as a form of technical philanthropy. Given financial freedom I'd like to imagine I would so something similar.
 
-# Eulogy
+## Eulogy
 
 *When I die, what eulogy do I want?*
 
@@ -72,7 +72,7 @@ This is actually a question that's lived in my mind for quite a while, even havi
 
 I believe that someone lives not just as a person in their own mind, but as a million versions of themselves in others. To me, if I can still be remembered vividly and warmly by the people who I was closest to, I would be more alive than dead.
 
-# Ideal Tuesday
+## Ideal Tuesday
 *What's an ideal Tuesday 5 years from now?*
 
 **Morning:** Rise early and make a hearty breakfast before waking up my girlfriend, feed the pets, and head off to work.
@@ -81,7 +81,7 @@ I believe that someone lives not just as a person in their own mind, but as a mi
 
 **Evening:** Come home tired, but fulfilled. Make dinner for me and my partner and watch a few episodes of our show on the couch with our pets. Shower, wind down, and read in bed for a few hours before going to sleep.
 
-# Question Sheet
+## Question Sheet
 
 For those interested, here are the original questions from Tanay.
 
