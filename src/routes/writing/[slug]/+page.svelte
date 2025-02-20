@@ -24,7 +24,7 @@
 	</div>
 </div>
 
-<style>
+<style lang="postcss">
 	.markdown-content :global(h1) {
 		@apply mb-4 mt-8 text-3xl font-bold;
 	}
