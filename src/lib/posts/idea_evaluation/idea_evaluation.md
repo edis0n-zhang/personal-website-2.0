@@ -1,6 +1,6 @@
 ---
 date: 2024-11-16
-published: true
+published: false
 title: idea evaluation
 ---
 > Within, you know, 10 minutes, it was obvious to me that all computers would work like this someday.
