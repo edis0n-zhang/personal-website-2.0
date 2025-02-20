@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link
 			rel="preload"
-			href="/src/app.css"
+			href="{import.meta.env.MODE === 'production' ? '/static/src/app.css' : '/src/app.css'}"
 			as="style"
 			onload="this.onload=null;this.rel='stylesheet'"
 		/>
