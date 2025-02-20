@@ -2,7 +2,14 @@ name = "personal-website-2"
 compatibility_date = "2025-01-01"
 
 [site]
-bucket = "./build"
+bucket = ".svelte-kit/cloudflare"
 
 [build]
 command = "npm run build"
+
+[env.production]
+workers_dev = false
+
+[site.static]
+include = [".svelte-kit/cloudflare/_app"]
+exclude = []
