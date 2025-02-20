@@ -16,7 +16,7 @@ const config = {
 			// See below for an explanation of these options
 			routes: {
 				include: ['/*'],
-				exclude: ['<all>']
+				exclude: ['<all>', '/sitemap.xml']
 			},
 			platformProxy: {
 				configPath: 'wrangler.toml',
