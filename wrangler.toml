@@ -1,13 +1,3 @@
 name = "personal-website-2"
-compatibility_date = "2025-01-01"
-
-upload.main = "workers-site/index.js"
-
-[site]
-bucket = ".svelte-kit/cloudflare"
-
-[build]
-command = "npm run build"
-
-[env.production]
-workers_dev = false
+main = ".svelte-kit/cloudflare/_worker.js"
+compatibility_date = "2025-02-20"
