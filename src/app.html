@@ -7,12 +7,7 @@
 		%sveltekit.head%
 	</head>
 
-	<body data-sveltekit-preload-data="hover" class="hidden">
+	<body data-sveltekit-preload-data="hover">
 		<div style="display: contents">%sveltekit.body%</div>
-		<script>
-			document.addEventListener('DOMContentLoaded', () => {
-				document.body.classList.remove('hidden');
-			});
-		</script>
 	</body>
 </html>
