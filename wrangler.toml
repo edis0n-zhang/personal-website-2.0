@@ -1,7 +1,7 @@
 name = "personal-website-2"
 compatibility_date = "2025-01-01"
 
-main = "workers-site/index.js"
+upload.main = "workers-site/index.js"
 
 [site]
 bucket = ".svelte-kit/cloudflare"
