@@ -4,10 +4,20 @@
 		<meta charset="utf-8" />
 		<link rel="icon" href="%sveltekit.assets%/lightbulb.png" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<style>
+			/* Anti-FOUC styles */
+			html {
+				visibility: hidden;
+			}
+		</style>
 		%sveltekit.head%
 	</head>
 
 	<body data-sveltekit-preload-data="hover">
 		<div style="display: contents">%sveltekit.body%</div>
+		<script>
+			// Remove FOUC prevention after styles are loaded
+			document.documentElement.style.visibility = 'visible';
+		</script>
 	</body>
 </html>
