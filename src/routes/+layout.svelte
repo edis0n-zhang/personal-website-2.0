@@ -7,6 +7,6 @@
 </script>
 
 <Header />
-<ModeWatcher />
+<ModeWatcher defaultMode={'light'} />
 <slot></slot>
 <Footer />
