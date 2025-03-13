@@ -12,7 +12,7 @@
 		class={`rounded-lg object-contain ${long_image ? 'w-2/3' : 'w-full'} mx-auto`}
 	/>
 	{#if caption}
-		<div class="mt-2 text-center italic text-[hsl(var(--midground))]">
+		<div class="mt-2 text-left text-sm font-medium italic text-[hsl(var(--midground))]">
 			{caption}
 		</div>
 	{/if}
