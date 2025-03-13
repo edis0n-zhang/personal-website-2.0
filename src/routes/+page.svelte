@@ -66,7 +66,7 @@
 		<div class="mt-6">
 			<CaptionedImage
 				image={broken_tulip}
-				caption="Broken tulip by Henriette Antoinette Vincent, 1820; my favorite flower."
+				caption="Broken tulip by Henriette Antoinette Vincent, 1820"
 			/>
 		</div>
 	</div>

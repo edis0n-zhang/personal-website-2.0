@@ -70,7 +70,7 @@
 	}
 
 	.markdown-content :global(blockquote) {
-		@apply my-4 border-l-4 border-gray-300 pl-4 italic dark:border-gray-600;
+		@apply my-4 border-l-4 border-[hsl(var(--important))] pl-4 italic;
 	}
 
 	.markdown-content :global(code) {
