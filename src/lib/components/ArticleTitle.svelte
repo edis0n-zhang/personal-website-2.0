@@ -10,16 +10,14 @@
 	const href = slug ? `/posts/${slug}` : '#' + id;
 </script>
 
-{#if slug}
-	<h3 class="text-2xl font-semibold" class:large={!slug} {id}>
-		<a {href}>
-			{title}
-		</a>
-	</h3>
-{:else}
-	<h2 class="text-2xl font-semibold" class:large={!slug} {id}>
-		<a {href}>
-			{title}
-		</a>
-	</h2>
-{/if}
+<h3 class="text-3xl font-semibold" class:large={!slug} {id}>
+	<a {href}>
+		{title}
+	</a>
+</h3>
+
+<style lang="postcss">
+	.large {
+		color: hsl(var(--important) / 1.1);
+	}
+</style>

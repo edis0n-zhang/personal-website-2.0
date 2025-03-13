@@ -9,16 +9,20 @@
 	$: component = data.component as unknown as C;
 </script>
 
-<div class="flex flex-col items-start justify-center px-3 lg:px-96">
-	<div class="w-full rounded-lg border-2 p-3">
-		<div class="flex flex-col items-start space-y-4">
-			<div class="flex flex-col items-start space-y-2">
-				<PageHead title={data.frontmatter.title} description={data.frontmatter.description} />
-				<ArticleTitle title={data.frontmatter.title} />
-				<ArticleMeta author={data.frontmatter.author} date={data.frontmatter.date} />
-			</div>
-			<div class="markdown-content min-w-full max-w-full">
-				<svelte:component this={component} />
+<div class="flex w-full flex-col items-center justify-center">
+	<div
+		class="mx-auto w-full max-w-screen-sm px-3 md:max-w-[650px] lg:max-w-[750px] xl:max-w-[800px]"
+	>
+		<div class="w-full rounded-lg border-2 border-[hsl(var(--important))] p-3">
+			<div class="flex flex-col items-start space-y-4">
+				<div class="flex flex-col items-start space-y-2">
+					<PageHead title={data.frontmatter.title} description={data.frontmatter.description} />
+					<ArticleTitle title={data.frontmatter.title} />
+					<ArticleMeta author={data.frontmatter.author} date={data.frontmatter.date} />
+				</div>
+				<div class="markdown-content min-w-full max-w-full">
+					<svelte:component this={component} />
+				</div>
 			</div>
 		</div>
 	</div>
@@ -27,22 +31,32 @@
 <style lang="postcss">
 	.markdown-content :global(h1) {
 		@apply mb-4 mt-8 text-3xl font-bold;
+		color: hsl(var(--important));
 	}
 
 	.markdown-content :global(h2) {
 		@apply mb-3 mt-6 text-2xl font-semibold;
+		color: hsl(var(--important));
 	}
 
 	.markdown-content :global(h3) {
 		@apply mb-2 mt-4 text-xl font-medium;
+		color: hsl(var(--important));
 	}
 
 	.markdown-content :global(p) {
 		@apply mb-4 leading-relaxed;
+		color: hsl(var(--foreground));
+	}
+
+	.markdown-content :global(strong) {
+		@apply font-bold;
+		color: hsl(var(--important));
 	}
 
 	.markdown-content :global(a) {
-		@apply text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-200;
+		@apply text-[hsl(var(--important))] hover:text-blue-700 dark:hover:text-blue-200;
+		text-decoration-line: underline;
 	}
 
 	.markdown-content :global(ul),
@@ -52,6 +66,7 @@
 
 	.markdown-content :global(li) {
 		@apply mb-2 list-disc;
+		color: hsl(var(--foreground) / 0.9);
 	}
 
 	.markdown-content :global(blockquote) {

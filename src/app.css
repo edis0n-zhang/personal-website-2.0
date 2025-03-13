@@ -6,19 +6,13 @@
 @tailwind utilities;
 
 @layer base {
-	@font-face {
-		font-family: 'Roboto';
-		font-style: normal;
-		font-weight: 400;
-		font-display: swap;
-		src: url('/fonts/Roboto.woff2') format('woff2');
-	}
-}
-
-@layer base {
 	:root {
-		--background: 48 100% 96.1%;
-		--foreground: 25 76% 7%;
+		--background: 48 50% 95%;
+		--foreground: 34 10% 35%;
+
+		--important: 34 10% 28%;
+
+		--midground: 34 10% 45%;
 
 		--muted: 0 0% 96.1%;
 		--muted-foreground: 0 0% 45.1%;
@@ -51,7 +45,11 @@
 
 	.dark {
 		--background: 0 10% 9%;
-		--foreground: 54 30% 93%;
+		--foreground: 38 12% 80%;
+
+		--important: 38 12% 90%;
+
+		--midground: 38 12% 70%;
 
 		--muted: 0 0% 14.9%;
 		--muted-foreground: 0 0% 63.9%;

@@ -37,7 +37,7 @@
 </script>
 
 <a href="/">
-	<div class="text-l relative pr-2 font-mono font-semibold md:text-xl">
+	<div class="relative pr-2 font-mono text-lg font-semibold lg:text-xl">
 		<span class="invisible">{fullName}</span>
 		<span class="absolute left-0 top-0">{displayText}</span>
 	</div>
