@@ -23,11 +23,12 @@ I'd be remiss to not mention Tanay as an example. I could sing his praises all d
 
 College is a uniquely rare opportunity to meet people, similar and dissimilar. With extremely high probability, you will never again enter a stage of your life where you are surrounded by so many similarly aged people. Every day was a new opportunity to learn from them, so I tried to soak up as much as I could.
 
-To other people who were once in my shoes, I'd urge you to not make the same mistake I did. Take a look around and recognize that the world is vaster than you will ever know, and try to glean as much as you can from the people you are surrounded by. It can't hurt to try.
+To others who were once in my shoes, I'd urge you to not make the same mistake I did. Take a look around and recognize that the world is vaster than you will ever know, and try to glean as much as you can from the people you are surrounded by. It can't hurt to try.
 
 ## games
 
 > When one door closes another door opens; but we often look so long and so regretfully upon the closed door that we do not see the ones which open for us.
+>
 > -- **Alexander Graham Bell**
 
 My freshman year I played a lot of games, of all kinds. In some ways I regret fooling around and wasting so much time, but in others I'm glad I did.
@@ -38,7 +39,7 @@ In particular, I loved thinking and ideating about the game. All kinds of intere
 
 And with online games, you're no longer limited to playing with just people within your vicinity. Yeah, your strategy might work against your friends in a casual game on the couch, but how do you measure up against the entire pool of players online? What about against a team who had studied your past games and specifically anti-stratted you?
 
-As some context, my friend group in high school played a lot of games. We came from all different backgrounds and had all kinds of interests, but we all played games together. Growing up, I always remembered getting up on a Saturday and looking forward to joining a bustling channel and playing a couple games.
+As some context, my friend group in high school played a lot of games. We came from all different backgrounds and had all kinds of interests, but we all played games together. Growing up, I always remembered getting up on a Saturday and looking forward to joining a bustling channel and queuing up for the whole day.
 
 But, as the never-ending march of time continues — the once daily calls became weekly, then monthly, eventually petering off to be a special occasion. People have gone off to college, got jobs, or just moved on to different interests. To me, joining UCSB Esports was a last desperate grasp at something that was always comfortable to me.
 
@@ -56,9 +57,7 @@ I still remember those sleepless nights grappling with my career, wrestling with
 
 I really think that for me, everything changed after I had attended my first hackathon. I had really only attended on a whim, and almost forgot to sign up on time.
 
-Man the project was shit, and I had no idea what I was doing. **But it was fun.** Sitting down and going from nothing to something reminded me of why I had originally chosen to study computer science. From that point forward, I had decided that at least for me, programming was more than a career.
-
-From then onwards I optimized for (not that I didn't spend or waste my time on misc. interests):
+Man the project was shit, and I had no idea what I was doing. **But it was fun.** Sitting down and going from nothing to something reminded me of why I had originally chosen to study computer science. From that point forward, I had decided that at least for me, programming was more than a career, and instead optimized for (not that I didn't spend or waste my time as well):
 
 1. Being engineer who could make things
 2. Maximize my surface area of luck for getting to work on something cool
@@ -69,7 +68,7 @@ The experience had taught me something more important and fundamental—through 
 
 So far, I've only talked about pivotal things in my 917 days in college, but I'd argue that those account for less than 10% of what my college experience meant to me. Somehow, defying the laws of physics, a million moments can fit into those short few years.
 
-In college, I for the first time—
+In college, I for the first time...
 
 Met Tanay. Met a lot of fantastic people (if it was only this it would be worth it). Lived on my own for the first time. Had roommates for the first time. Took a lot of sunset walks along the beach. Did my own laundry for the first time. Fed myself (with some combination of takeout and poorly made meals). Had a relationship with someone for the first time. Joined the UCSB Valorant Team. Participated in a hackathon. Went to a party on DP. Played **a lot** of poker. Got a B for the first time. Got my first official job offer. Played Pokemon Showdown in my room until 4 AM until I peaked at a rank of 22. Broke up with someone. Lived alone in another state (with a stranger, I did not like NC, but the people made it great). Worked a full time job. Tried dating apps (they're horrible). Did "research" I didn't like. Participated in an AI alignment reading group. Saw a concert for the first time. Met Evelyn (my partner who I fall in love with again every day). Went on a date with Evelyn. Worked at a startup in SF. Tried a lot of delicious food. Took graduation photos. Saw my last sunset as a student in Isla Vista.
 
