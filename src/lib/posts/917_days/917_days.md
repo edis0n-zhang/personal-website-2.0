@@ -87,4 +87,4 @@ To the friends, mentors, acquaintances—everyone who has been a part of my coll
 
 Although the sun has set for me, UCSB will always have a special and important place in my heart.
 
-<CaptionedImage image={LastSunset} caption="hello world"/>
+<CaptionedImage image={LastSunset}/>
