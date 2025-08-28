@@ -37,7 +37,7 @@
 			<h1 class="font-semibold text-[hsl(var(--important))]">hi, i'm edison,</h1>
 			<br />
 			<p>
-				I'm a software engineer and student at UCSB. I love building things, competitive games, and
+				I'm currently an engineer at Windsurf. I love building things, competitive games, and
 				reading blogs (suggestions very welcome).
 			</p>
 			<br />

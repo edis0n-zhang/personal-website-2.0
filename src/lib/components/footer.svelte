@@ -6,7 +6,7 @@
 	<div
 		class="mx-auto flex w-full max-w-screen-sm flex-row items-start justify-between px-3 md:max-w-[650px] lg:max-w-[750px] xl:max-w-[800px]"
 	>
-		<div class="flex items-center font-mono text-base">made with love by edison</div>
+		<div class="flex items-center font-mono text-base font-semibold">made with love by edison</div>
 		<div class="flex items-center space-x-4">
 			<a
 				href="mailto:edison.zhang.forwarding@gmail.com"
