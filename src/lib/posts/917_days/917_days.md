@@ -87,3 +87,15 @@ To the friends, mentors, acquaintances—everyone who has been a part of my coll
 Although the sun has set for me, UCSB will always have a special and important place in my heart.
 
 <CaptionedImage image={LastSunset}/>
+
+<br/>
+
+---
+
+<br/>
+
+**Writer's Note:** This is maybe the most personal thing I will every write and put out on the internet. Multiple times during writing this I've wondered if this was the right thing to be writing about at all, or whether the ways I've constructed the post make sense at all. Ultimately, it's a reflection on my own college experience, and all I can do is deliver it as coherently and concisely as I'm currently able to.
+
+I still feel that the prose is quite clunky, and I'm not sure if I have gotten any of my points across at all, but I've procrastinated and delayed this piece so long that ultimately it just has to come out. I mean, I graduated in March, and it is August now...
+
+My life since graduating has been even crazier, my only hope is that one day, in a few years, I will be able to reminisce on the current period of my life as fondly as I do my time in Isla Vista.
