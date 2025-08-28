@@ -9,7 +9,7 @@ title: 917 days
   import LastSunset from "./sunset.jpg";
 </script>
 
-I spent 917 days in college. Given a life expectancy of 84 years, I that is 3% of my, a relatively short amount. And it's true, I didn't feel much different with each and every passing day; perhaps that day I was scrambling to study for a test, finishing an assignment, or going to a party. Yet still, when I look back from where I stand now to where I started, these short two and a half years have completely changed my life as well as the person I am.
+I spent 917 days in college. Given a life expectancy of 84 years, that is 3% of my life, a relatively short amount. And it's true, I didn't feel much different with each and every passing day; perhaps that day I was scrambling to study for a test, finishing an assignment, or going to a party. Yet still, when I look back from where I stand now to where I started, these short two and a half years have completely changed my life as well as the person I am.
 
 To me, college wasn't a single homogenous experience, it was a million tiny moments that ultimately culminated into something more. All I hope to achieve with this blog post is to keep some of those special moments alive. Sorted not quite chronologically, but not quite by topic, here’s the hodgepodge of moments that make up my college experience.
 
@@ -19,7 +19,7 @@ When I first entered college, I was bitter. In my mind, I "deserved" to go to a 
 
 I was instantly met with reality. I met people who had done everything I had and more. Who was I to complain when I talked to living proof that I was simply lacking? I realized that even in the small pond of UCSB, I was by no means a big fish. My peers had gone to better high schools than me, had parents to model their careers off of, and had been coding longer than me. People had all kinds of different strengths social, academic, or just the ability to live their lives.
 
-I'd be remiss to not mention Tanay as an example. I could sing his praises all day. He was better at coding than I was (and likely still is), made classes look effortless, easily picked up leadership and teaching positions, and is humble to boot. But if I were to describe him it would be Principled. Every day I got a front row seat to the day in and day out effort he would put in. Watching him make decisions not off of emotion or short term gratification, but rather a set of steadfast rules he upholds is genuinely awe inspiring, and an example I strive towards becoming every day. Internalizing this approach to decision making has made my life infinitely easier, and something I will always take with me going forward.
+I'd be remiss to not mention Tanay as an example. I could sing his praises all day. He was better at coding than I was (and likely still is), made classes look effortless, easily picked up leadership and teaching positions, and is humble to boot. But if I were to describe him it would be Principled. Every day I got a front row seat to the day in and day out effort he would put in. Watching him make decisions not off of emotion or short term gratification, but rather a set of steadfast rules he upholds is genuinely awe inspiring, and is a quality I personally strive to embody. 
 
 College is a uniquely rare opportunity to meet people, similar and dissimilar. With extremely high probability, you will never again enter a stage of your life where you are surrounded by so many similarly aged people. Every day was a new opportunity to learn from them, so I tried to soak up as much as I could.
 
@@ -69,7 +69,7 @@ The experience had taught me something more important and fundamental—through 
 
 So far, I've only talked about pivotal things in my 917 days in college, but I'd argue that those account for less than 10% of what my college experience meant to me. Somehow, defying the laws of physics, a million moments can fit into those short few years.
 
-In loose chronological order, in college I, for the first time—
+In college, I for the first time—
 
 Met Tanay. Met a lot of fantastic people (if it was only this it would be worth it). Lived on my own for the first time. Had roommates for the first time. Took a lot of sunset walks along the beach. Did my own laundry for the first time. Fed myself (with some combination of takeout and poorly made meals). Had a relationship with someone for the first time. Joined the UCSB Valorant Team. Participated in a hackathon. Went to a party on DP. Played **a lot** of poker. Got a B for the first time. Got my first official job offer. Played Pokemon Showdown in my room until 4 AM until I peaked at a rank of 22. Broke up with someone. Lived alone in another state (with a stranger, I did not like NC, but the people made it great). Worked a full time job. Tried dating apps (they're horrible). Did "research" I didn't like. Participated in an AI alignment reading group. Saw a concert for the first time. Met Evelyn (my partner who I fall in love with again every day). Went on a date with Evelyn. Worked at a startup in SF. Tried a lot of delicious food. Took graduation photos. Saw my last sunset as a student in Isla Vista.
 
@@ -79,9 +79,7 @@ I say this all in one breath, because from where I stand now, college feels like
 
 All of the days and weeks which felt like years cramming for exams, doing problem sets, and applying to internships have now melted into a blur.
 
-The only thing I can remember are the spontaneous gatherings and laughs everyone shared.
-
-All of these million moments, have become pictures in my camera roll.
+The only things I remember are the little memories I hold so dear to me.
 
 Each one filled with more life than I could possibly impart in a single essay.
 
