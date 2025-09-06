@@ -51,7 +51,7 @@ In the summer, I was offered to stay on as a starter and help build out the next
 
 ## goal setting
 
-Coming into college, I was lost and didn't really know what I wanted to do. I broadly knew what I liked, but didn't have the guidance or opportunity to explore computer science in depth. Truthfully, I had picked it with the knowledge that it unlocked a high paying career which would keep doors open for me to pursue my other interests.
+Before college, I wasn't sure how much I wanted to do Computer Science. I broadly knew what I liked, but didn't have the guidance or opportunity to explore computer science in depth. Truthfully, I had picked it with the knowledge that it unlocked a high paying career which would keep doors open for me to pursue my other interests.
 
 I still remember those sleepless nights grappling with my career, wrestling with if I had made the correct decision or not.
 
@@ -62,7 +62,7 @@ Man the project was shit, and I had no idea what I was doing. **But it was fun.*
 1. Being engineer who could make things
 2. Maximize my surface area of luck for getting to work on something cool
 
-The experience had taught me something more important and fundamental—through the course of my life my goals will change, and so will I.
+The experience had taught me something more important and fundamental—throughout the course of my life my goals will change, and so will I.
 
 ## living a life
 
