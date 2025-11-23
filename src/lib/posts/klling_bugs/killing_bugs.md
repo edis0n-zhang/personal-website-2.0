@@ -1,7 +1,7 @@
 ---
 date: 2025-11-01
 title: killing bugs
-published: false
+published: true
 ---
 
 > Spoilers for Orson Scott Card's hit book _Ender's Game_ coming up ahead, although I don't feel too bad since it was published in **1985**
@@ -24,8 +24,6 @@ But this mindset that is dangerous, especially to an engineer. It's important to
 
 Or perhaps I've made this loose connection between myself and Ender all to make a joke about literally and metaphorically killing bugs.
 
-> sonder
-> [son-der]
-> noun
-
-    the feeling one has on realizing that every other individual one sees has a life as full and real as one’s own, in which they are the central character and others, including oneself, have secondary or insignificant roles.
+> **Sonder** [son-der], n.
+>
+> the feeling one has on realizing that every other individual one sees has a life as full and real as one’s own, in which they are the central character and others, including oneself, have secondary or insignificant roles.
