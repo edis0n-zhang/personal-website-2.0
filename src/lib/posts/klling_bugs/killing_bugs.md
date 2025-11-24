@@ -23,7 +23,3 @@ The sheer quantity of feedback I receive often leads to me disassociating report
 But this mindset that is dangerous, especially to an engineer. It's important to not be swayed too much by users, but it's equally if not more important to remember that behind every message is a user experiencing something, and whether it's frustration or delight is up to me.
 
 Or perhaps I've made this loose connection between myself and Ender all to make a joke about literally and metaphorically killing bugs.
-
-> **Sonder** [son-der], n.
->
-> the feeling one has on realizing that every other individual one sees has a life as full and real as one’s own, in which they are the central character and others, including oneself, have secondary or insignificant roles.
